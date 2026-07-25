@@ -1,12 +1,11 @@
-# Apple iOS System Update
+# Apple System Update
 DOMAIN,mesu.apple.com,DIRECT
 DOMAIN,gdmf.apple.com,DIRECT
 DOMAIN,gg.apple.com,DIRECT
 DOMAIN,gs.apple.com,DIRECT
-DOMAIN,appldnld.apple.com,DIRECT
-DOMAIN,updates.cdn-apple.com,DIRECT
-DOMAIN,updates-http.cdn-apple.com,DIRECT
+DOMAIN-SUFFIX,appldnld.apple.com,DIRECT
+DOMAIN-SUFFIX,updates.cdn-apple.com,DIRECT
 
-# App Store download
-DOMAIN,apps.apple.com,DIRECT
+# App Store
+DOMAIN-SUFFIX,apps.apple.com,DIRECT
 DOMAIN-SUFFIX,mzstatic.com,DIRECT
