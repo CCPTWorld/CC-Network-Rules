@@ -1,0 +1,8 @@
+# Apple-Push / HomeKit通知
+DOMAIN-SUFFIX,push.apple.com,DIRECT
+DOMAIN-SUFFIX,push-apple.com.akadns.net,DIRECT
+DOMAIN-SUFFIX,courier.push.apple.com,DIRECT
+DOMAIN,api.push.apple.com,DIRECT
+
+# 下面这一条可能影响到 iCloud ，如需让 iCloud 走代理则删除它
+DOMAIN,api.sandbox.push.apple.com,DIRECT
