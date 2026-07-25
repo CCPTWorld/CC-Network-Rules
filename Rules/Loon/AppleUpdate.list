@@ -1,11 +1,11 @@
 # Apple System Update
-DOMAIN,mesu.apple.com,DIRECT
-DOMAIN,gdmf.apple.com,DIRECT
-DOMAIN,gg.apple.com,DIRECT
-DOMAIN,gs.apple.com,DIRECT
-DOMAIN-SUFFIX,appldnld.apple.com,DIRECT
-DOMAIN-SUFFIX,updates.cdn-apple.com,DIRECT
+DOMAIN,mesu.apple.com
+DOMAIN,gdmf.apple.com
+DOMAIN,gg.apple.com
+DOMAIN,gs.apple.com
+DOMAIN-SUFFIX,appldnld.apple.com
+DOMAIN-SUFFIX,updates.cdn-apple.com
 
 # App Store
-DOMAIN-SUFFIX,apps.apple.com,DIRECT
-DOMAIN-SUFFIX,mzstatic.com,DIRECT
+DOMAIN-SUFFIX,apps.apple.com
+DOMAIN-SUFFIX,mzstatic.com
