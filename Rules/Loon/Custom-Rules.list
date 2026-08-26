@@ -1,0 +1,6 @@
+# NAME: Custom-Rules
+# 注释，下面内容未修改，未来自己改
+DOMAIN-SUFFIX,push.apple.com
+DOMAIN-SUFFIX,push-apple.com.akadns.net
+DOMAIN-SUFFIX,courier.push.apple.com
+DOMAIN,api.push.apple.com
