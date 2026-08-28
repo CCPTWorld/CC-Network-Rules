@@ -1,0 +1,5 @@
+# NAME: Custom-Direct
+
+payload:
+  # Steam 下载
+  - DOMAIN-SUFFIX,steamcontent.com
