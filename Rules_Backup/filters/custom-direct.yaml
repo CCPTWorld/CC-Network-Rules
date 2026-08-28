@@ -1,0 +1,9 @@
+# NAME: Custom-Direct
+payload:
+  ##################### Steam 相关 #####################
+  # Steam 游戏下载 CDN
+  - DOMAIN-SUFFIX,steamcontent.com
+  # Steam 静态资源 CDN ，如果使用这条则会让视频播放直连，国内几乎没法看
+  #- DOMAIN-SUFFIX,steamstatic.com
+  # Steam 使用的其他 CDN
+  - DOMAIN-SUFFIX,akamaihd.net
