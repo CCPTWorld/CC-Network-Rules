@@ -3,3 +3,4 @@
 payload:
   # Steam 下载
   - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,akamaihd.net
