@@ -1,5 +1,9 @@
 # NAME: Custom-Direct
 payload:
-  # Steam 下载
+  ##################### Steam 相关 #####################
+  # Steam 游戏下载 CDN
   - DOMAIN-SUFFIX,steamcontent.com
+  # Steam 静态资源 CDN
+  - DOMAIN-SUFFIX,steamstatic.com
+  # Steam 使用的其他 CDN
   - DOMAIN-SUFFIX,akamaihd.net
