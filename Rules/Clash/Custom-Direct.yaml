@@ -1,9 +1,26 @@
 # NAME: Custom-Direct
 payload:
-  ##################### Steam 相关 #####################
-  # Steam 游戏下载 CDN
+  # 1.Steam 相关
+    # Steam 游戏下载 CDN
   - DOMAIN-SUFFIX,steamcontent.com
-  # Steam 静态资源 CDN ，如果使用这条则会让视频播放直连，国内几乎没法看
+    # Steam 静态资源 CDN ，如果使用这条则会让视频播放直连，国内几乎没法看
   #- DOMAIN-SUFFIX,steamstatic.com
-  # Steam 使用的其他 CDN
+    # Steam 使用的其他 CDN
   - DOMAIN-SUFFIX,akamaihd.net
+    # Steam 其它
+  - DOMAIN-SUFFIX,clan.steamstatic.com
+  - DOMAIN-SUFFIX,steam.clngaa.com
+  - DOMAIN-SUFFIX,steam.ksyna.com
+
+  # 2.英伟达下载直连
+  - DOMAIN-SUFFIX,download.nvidia.com
+
+  # 3.Apple 相关
+    # Apple-Update 更新服务直连
+  - DOMAIN,iosapps.itunes.apple.com
+    # Apple-Music-1.1（本地规则直连，3个主要吃流量大户，国内有 Apple Music服务器速度很快）
+  - DOMAIN,aod.itunes.apple.com,DIRECT
+    # Apple-Music-1.2（本地规则直连，3个主要吃流量大户，国内有 Apple Music服务器速度很快）
+  - DOMAIN,aod-ssl.itunes.apple.com,DIRECT
+    # Apple-Music-1.3（本地规则直连，3个主要吃流量大户，国内有 Apple Music服务器速度很快）
+  - DOMAIN,streamingaudio.itunes.apple.com,DIRECT
