@@ -1,0 +1,6 @@
+# NAME: Add-Extra-Ai
+# 添加额外的AI相关域名进行分流
+payload:
+  # Muse - Meta Ai
+  - DOMAIN-SUFFIX,ai.meta.com
+  - DOMAIN-SUFFIX,muse.ai
