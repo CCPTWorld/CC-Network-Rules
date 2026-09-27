@@ -24,8 +24,4 @@ payload:
   - DOMAIN,aod-ssl.itunes.apple.com
     # Apple-Music-1.3（本地规则直连，3个主要吃流量大户，国内有 Apple Music服务器速度很快）
   - DOMAIN,streamingaudio.itunes.apple.com
-
-  # 4.自定义IP直连
-    # TW8.0服务器
-  - IP-CIDR,42.240.172.156
   
