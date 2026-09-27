@@ -1,0 +1,5 @@
+# NAME: Custom-Direct-ip
+payload:
+  # 1.自定义IP直连
+    # TW8.0服务器
+  - 42.240.172.156
