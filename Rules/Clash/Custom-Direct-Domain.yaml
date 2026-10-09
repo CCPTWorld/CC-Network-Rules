@@ -24,4 +24,10 @@ payload:
   - DOMAIN,aod-ssl.itunes.apple.com
     # Apple-Music-1.3（本地规则直连，3个主要吃流量大户，国内有 Apple Music服务器速度很快）
   - DOMAIN,streamingaudio.itunes.apple.com
+
+  # 4.游戏下载
+    # Ankergames 下载点
+  - DOMAIN-SUFFIX,dlproxy.uk
+    # Fitgirl 强制直连访问，代理会被拒绝访问
+  - DOMAIN-SUFFIX,fitgirl-repacks.site
   
