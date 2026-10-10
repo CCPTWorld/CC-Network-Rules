@@ -1,0 +1,11 @@
+# NAME: Force-US-Domain
+# DMIT，指定美国节点
+DOMAIN-SUFFIX,dmit.io
+# VMISS，指定美国节点
+DOMAIN-SUFFIX,vmiss.com
+# AKKO 屏蔽东南亚IP，指定美国节点
+DOMAIN-SUFFIX,akkocloud.com
+# 白丝云 屏蔽东南亚IP，指定美国节点
+DOMAIN-SUFFIX,cloudsilk.io
+# isvoro，指定美国节点
+DOMAIN-SUFFIX,isvoro.com
