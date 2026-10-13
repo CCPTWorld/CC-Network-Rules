@@ -10,5 +10,5 @@ payload:
   - DOMAIN-SUFFIX,cloudsilk.io
   # isvoro，指定美国节点
   - DOMAIN-SUFFIX,isvoro.com
-  # isvoro，指定美国节点
+  # Lightlayer，指定美国节点
   - DOMAIN-SUFFIX,lightlayer.net
