@@ -9,3 +9,5 @@ DOMAIN-SUFFIX,akkocloud.com
 DOMAIN-SUFFIX,cloudsilk.io
 # isvoro，指定美国节点
 DOMAIN-SUFFIX,isvoro.com
+# Lightlayer，指定美国节点
+DOMAIN-SUFFIX,lightlayer.net
