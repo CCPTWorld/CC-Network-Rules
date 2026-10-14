@@ -12,3 +12,5 @@ payload:
   - DOMAIN-SUFFIX,isvoro.com
   # Lightlayer，指定美国节点
   - DOMAIN-SUFFIX,lightlayer.net
+  # PPFlight，指定美国节点
+  - DOMAIN-SUFFIX,ppflight.com
