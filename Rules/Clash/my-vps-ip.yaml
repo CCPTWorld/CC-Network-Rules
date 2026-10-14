@@ -1,0 +1,14 @@
+# NAME: my-vps-ip
+payload:
+  # DMIT-LAX-AN4-PRO-WEE
+  - 154.21.80.167
+  # VMISS-US-LA-TRI-BASIC
+  - 216.40.85.3
+  # EVOXT-MY-KL
+  - 202.61.75.45
+  # LamHosting-DE
+  - 85.237.70.171
+  # BeroHost-DE-12o
+  - 5.180.253.252
+  # BeroHost-DE-49o
+  - 89.106.76.15
