@@ -3,7 +3,7 @@ payload:
   # DMIT，指定美国节点
   - DOMAIN-SUFFIX,dmit.io
   # VMISS，指定美国节点
-  - DOMAIN-SUFFIX,vmiss.com
+  #- DOMAIN-SUFFIX,vmiss.com
   # AKKO 屏蔽东南亚IP，指定美国节点
   - DOMAIN-SUFFIX,akkocloud.com
   # 白丝云 屏蔽东南亚IP，指定美国节点
