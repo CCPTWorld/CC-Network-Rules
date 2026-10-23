@@ -23,3 +23,6 @@ payload:
   - DOMAIN-SUFFIX,nodeseek.org
   - DOMAIN-SUFFIX,nodeimage.com
   - DOMAIN-SUFFIX,seek.li
+  # VPS 测试报告
+  - DOMAIN-SUFFIX,nodequality.com
+  - DOMAIN-SUFFIX,ibsgss.uk
