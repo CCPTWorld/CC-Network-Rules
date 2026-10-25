@@ -6,6 +6,7 @@ payload:
   #- DOMAIN-SUFFIX,vmiss.com
   # GreenCloud 绿云
   - DOMAIN-SUFFIX,greencloudvps.com
+  - DOMAIN-SUFFIX,green.cloud
   # AKKO 屏蔽东南亚IP，指定美国节点
   - DOMAIN-SUFFIX,akkocloud.com
   # 白丝云 屏蔽东南亚IP，指定美国节点
