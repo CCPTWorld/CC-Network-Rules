@@ -3,6 +3,9 @@
 DOMAIN-SUFFIX,dmit.io
 # VMISS，指定美国节点
 DOMAIN-SUFFIX,vmiss.com
+# GreenCloud 绿云
+DOMAIN-SUFFIX,greencloudvps.com
+DOMAIN-SUFFIX,green.cloud
 # AKKO 屏蔽东南亚IP，指定美国节点
 DOMAIN-SUFFIX,akkocloud.com
 # 白丝云 屏蔽东南亚IP，指定美国节点
@@ -21,5 +24,3 @@ DOMAIN-SUFFIX,seek.li
 # VPS 测试报告
 DOMAIN-SUFFIX,nodequality.com
 DOMAIN-SUFFIX,ibsgss.uk
-# GreenCloud 绿云
-DOMAIN-SUFFIX,greencloudvps.com
